@@ -2,7 +2,7 @@
 - 👀 I’m interested in football
 - 🌱 I’m currently learning C#
 - 💞️ I’m looking to collaborate on Nil Tech
-- 📫 How to reach me @iago_rech or www.linkedin.com/in/iago-rech-tramontin-ba3106227
+- 📫 How to reach me @iago_rech or by [linkedin](www.linkedin.com/in/iago-rech-tramontin-ba3106227)
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I don't know what I'm doing
 
