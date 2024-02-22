@@ -12,3 +12,4 @@ You can click the Preview link to take a look at your changes.
 --->
 
 ![Iagos's GitHub stats](https://github-readme-stats.vercel.app/api?username=I4g0m1t0&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=I4g0m1t0&layout=compact)
