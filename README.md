@@ -11,9 +11,9 @@ I4g0m1t0/I4g0m1t0 is a ✨ special ✨ repository because its `README.md` (this 
 You can click the Preview link to take a look at your changes.
 --->
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<a href="">
   <img height=180 align="center" src="https://github-readme-stats.vercel.app/api?username=I4g0m1t0&show_icons=true&theme=radical" />
 </a>
-<a href="https://github.com/anuraghazra/convoychat">
+<a href="">
   <img height=180 widht=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=I4g0m1t0&layout=compact&langs_count=8&theme=radical" />
 </a>
