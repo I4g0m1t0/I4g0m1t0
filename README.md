@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Iago
 - 👀 I’m interested in football
-- 🌱 I’m currently learning C#
+- 🌱 I’m currently learning C++
 - 💞️ I’m looking to collaborate on anywhere
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I don't know what I'm doing
