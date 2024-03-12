@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Iago
-- 👀 I’m interested in football
+- 👀 I’m interested in HTML, CSS, C#
 - 🌱 I’m currently learning C++
 - 💞️ I’m looking to collaborate on anywhere
 - 😄 Pronouns: He/Him
