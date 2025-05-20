@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Iago
-- 👀 I’m interested in HTML, CSS, C#
-- 🌱 I’m currently learning JavaScript
+- 👀 I’m interested in HTML, CSS, C#, JS, TS
+- 🌱 I’m currently learning TypeScript
 - 💞️ I’m looking to collaborate on anywhere
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I don't know what I'm doing
